@@ -28,8 +28,3 @@ ___
 <br> <span style="color:darkorange">Rennes bicycle hiring service (Vélo Star)</span>
 <br> <span style="color:darkblue">Service de location de vélo de Rennes (Vélo Star)</span>
 <br> 
-
-```diff
-+ this text is highlighted in green
-# this text is highlighted in grey
-```

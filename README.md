@@ -9,18 +9,21 @@ ___
 <br> (o) <span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
 <br> (+) <span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
 <br> 
+
 ___
 
 2. [MetroRennes](https://github.com/FlorentDSGree/MetroRennes/blob/master/MetroRennes/ReadMe.md) (FR)
 <br> (o) <span style="color:darkorange">Rennes metro (tube) overview</span>
 <br> (+) <span style="color:darkblue">Métro de Rennes</span>
 <br>
+
 ___
 
 3. [MaddisonWorldEconomy](https://florentdsgree.github.io/MaddisonWorldEconomy_2018/) (EN)
 <br> (o) <span style="color:darkorange">Visualisation based on Maddison world economy project data</span>
 <br> (+) <span style="color:darkblue">Visualisation basée sur les données du projet Maddison world economy</span>
 <br>
+
 ___
 
 4. [VeloStarRennes](https://florentdsgree.github.io/VeloStarRennes/) (FR)

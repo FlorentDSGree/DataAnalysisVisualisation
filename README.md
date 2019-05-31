@@ -1,6 +1,6 @@
 # Data analysis and visualisation <br> Analyse de données et visualisation
 
-(o) <span style="color:darkorange">Find below some data analysis and visualisation done with open source data. Some studies are in English (EN) and some in French (FR)</span>
+(o) <span style="color:darkorange">Find below some data analysis and visualisation done with open source data. Some studies are in English (EN) and some in French (FR).</span>
 <br>(+) <span style="color:darkblue">Veuillez trouver ci-dessous des analyses de données et visualisations faites avec des données en accès libre. Certaines études sont en anglais (EN) et d'autres en français (FR).</span>
 ___
 

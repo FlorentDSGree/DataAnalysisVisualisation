@@ -9,7 +9,6 @@ ___
 <br> (o) <span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
 <br> (+) <span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
 <br> 
-
 ___
 
 2. [MetroRennes](https://github.com/FlorentDSGree/MetroRennes/blob/master/MetroRennes/ReadMe.md) (FR)

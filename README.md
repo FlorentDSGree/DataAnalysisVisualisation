@@ -1,14 +1,14 @@
 # Data Analysis and Visualisation
 
 
-o <span style="color:darkorange">Find below some data analysis and visualisation done with open source data. Some studies are in English (EN) and some in French (FR)</span>
-<br>+ <span style="color:darkblue">Veuillez trouver ci-dessous des analyses de données et visualisations faites avec des données en accès libre. Certaines études sont en anglais (EN) et d'autres en français (FR).</span>
+(o) <span style="color:darkorange">Find below some data analysis and visualisation done with open source data. Some studies are in English (EN) and some in French (FR)</span>
+<br>(+) <span style="color:darkblue">Veuillez trouver ci-dessous des analyses de données et visualisations faites avec des données en accès libre. Certaines études sont en anglais (EN) et d'autres en français (FR).</span>
 
 ___
 
 1. [Population_35FR](https://github.com/FlorentDSGree/Population_35FR) (EN) 
-<br> o <span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
-<br> + <span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
+<br> (o) <span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
+<br> (+) <span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
 <br> 
 
 

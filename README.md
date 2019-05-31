@@ -13,18 +13,18 @@ ___
 
 
 2. [MetroRennes](https://github.com/FlorentDSGree/MetroRennes/blob/master/MetroRennes/ReadMe.md) (FR)
-<br> o <span style="color:darkorange">Rennes metro (tube) overview</span>
-<br> + <span style="color:darkblue">Métro de Rennes</span>
+<br> (o) <span style="color:darkorange">Rennes metro (tube) overview</span>
+<br> (+) <span style="color:darkblue">Métro de Rennes</span>
 <br>
 
 
 3. [MaddisonWorldEconomy](https://florentdsgree.github.io/MaddisonWorldEconomy_2018/) (EN)
-<br> o <span style="color:darkorange">Visualisation based on Maddison world economy project data</span>
-<br> + <span style="color:darkblue">Visualisation basée sur les données du projet Maddison world economy</span>
+<br> (o) <span style="color:darkorange">Visualisation based on Maddison world economy project data</span>
+<br> (+) <span style="color:darkblue">Visualisation basée sur les données du projet Maddison world economy</span>
 <br>
 
 
 4. [VeloStarRennes](https://florentdsgree.github.io/VeloStarRennes/) (FR)
-<br> o <span style="color:darkorange">Rennes bicycle hiring service (Vélo Star)</span>
-<br> + <span style="color:darkblue">Service de location de vélo de Rennes (Vélo Star)</span>
+<br> (o) <span style="color:darkorange">Rennes bicycle hiring service (Vélo Star)</span>
+<br> (+) <span style="color:darkblue">Service de location de vélo de Rennes (Vélo Star)</span>
 <br> 

@@ -28,3 +28,18 @@ ___
 <br> <span style="color:darkorange">Rennes bicycle hiring service (Vélo Star)</span>
 <br> <span style="color:darkblue">Service de location de vélo de Rennes (Vélo Star)</span>
 <br> 
+
+```js
+  import { Component } from '@angular/core';
+  import { MovieService } from './services/movie.service';
+
+  @Component({
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.css'],
+    providers: [ MovieService ]
+  })
+  export class AppComponent {
+    title = 'app works!';
+  }
+```

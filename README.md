@@ -7,8 +7,8 @@
 ___
 
 1. [Population_35FR](https://github.com/FlorentDSGree/Population_35FR) (EN) 
-<br> *<span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
-<br> +<span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
+<br> o <span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
+<br> + <span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
 <br> 
 
 

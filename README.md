@@ -1,21 +1,30 @@
 # Data Analysis and Visualisation
----
 
-Find below some data analysis and visualisation done with open source data. Some studies are in English (EN) and some in French (FR)
-<br> Veuillez trouver ci-dessous des analyses de données et visualisations faites avec des données en accès libre. Certaines études sont en anglais (EN) et d'autres en français (FR).
----
-1. Population in a French department (Ille-et-Vilaine, 35)
-<br>  Population en Ille-et-Vilaine, 35
-<br> (EN) [Population_35FR](https://github.com/FlorentDSGree/Population_35FR)
 
-2. Rennes metro (tube) overview
-<br>  Métro de Rennes
-<br> (FR) [MetroRennes](https://github.com/FlorentDSGree/MetroRennes/blob/master/MetroRennes/ReadMe.md)
+<span style="color:darkorange">Find below some data analysis and visualisation done with open source data. Some studies are in English (EN) and some in French (FR)</span>
+<br><span style="color:darkblue">Veuillez trouver ci-dessous des analyses de données et visualisations faites avec des données en accès libre. Certaines études sont en anglais (EN) et d'autres en français (FR).</span>
 
-3. Visualisation based on Maddison world economy project data
-<br>  Visualisation basée sur les données du projet Maddison world economy
-<br> (EN) [MaddisonWorldEconomy](https://florentdsgree.github.io/MaddisonWorldEconomy_2018/)
+___
 
-4. Rennes bicycle hiring service (Vélo Star)
-<br>  Service de location de vélo de Rennes (Vélo Star)
-<br> (FR) [VeloStarRennes](https://florentdsgree.github.io/VeloStarRennes/)
+1. [Population_35FR](https://github.com/FlorentDSGree/Population_35FR) (EN) 
+<br> <span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
+<br> <span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
+<br> 
+
+
+2. [MetroRennes](https://github.com/FlorentDSGree/MetroRennes/blob/master/MetroRennes/ReadMe.md) (FR)
+<br> <span style="color:darkorange">Rennes metro (tube) overview</span>
+<br> <span style="color:darkblue">Métro de Rennes</span>
+<br>
+
+
+3. [MaddisonWorldEconomy](https://florentdsgree.github.io/MaddisonWorldEconomy_2018/) (EN)
+<br> <span style="color:darkorange">Visualisation based on Maddison world economy project data</span>
+<br> <span style="color:darkblue">Visualisation basée sur les données du projet Maddison world economy</span>
+<br>
+
+
+4. [VeloStarRennes](https://florentdsgree.github.io/VeloStarRennes/) (FR)
+<br> <span style="color:darkorange">Rennes bicycle hiring service (Vélo Star)</span>
+<br> <span style="color:darkblue">Service de location de vélo de Rennes (Vélo Star)</span>
+<br> 

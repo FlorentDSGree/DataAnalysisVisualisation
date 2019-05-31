@@ -1,5 +1,4 @@
-# Data Analysis and Visualisation
-# Analyse de données et visualisation
+# Data Analysis and Visualisation - Analyse de données et visualisation
 
 
 (o) <span style="color:darkorange">Find below some data analysis and visualisation done with open source data. Some studies are in English (EN) and some in French (FR)</span>

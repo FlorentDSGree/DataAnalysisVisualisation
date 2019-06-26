@@ -38,3 +38,5 @@ ___
 6. [VeloStarRennes](https://florentdsgree.github.io/VeloStarRennes/) (FR)
 <br> (o) <span style="color:darkorange">Rennes bicycle hiring service (Vélo Star)</span>
 <br> (+) <span style="color:darkblue">Service de location de vélo de Rennes (Vélo Star)</span>
+
+___

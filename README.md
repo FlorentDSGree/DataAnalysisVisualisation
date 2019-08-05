@@ -43,6 +43,6 @@ ___
 6. [VeloStarRennes](https://florentdsgree.github.io/VeloStarRennes/) (FR)
 <br> (o) <span style="color:darkorange">Rennes bicycle hire service (Vélo Star)</span>
 <br> (+) <span style="color:darkblue">Service de location de vélo de Rennes (Vélo Star)</span>
-<br> Tools/Outils: Python, Plotly, HTML
+<br> Tools/Outils: Python, Plotly, Bokeh, HTML
 
 ___

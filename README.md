@@ -46,3 +46,10 @@ ___
 <br> Tools/Outils: Python, Plotly, Bokeh, HTML
 
 ___
+
+7. [ForecastElectricityGenerationUK](https://github.com/FlorentDSGree/ForecastElectricityGenerationUK/) (EN)
+<br> (o) <span style="color:darkorange">Predict the electricity generation in the UK with machine learning (Vélo Star)</span>
+<br> (+) <span style="color:darkblue">Prédiction de la génération d'électricité au Royaume-Uni avec machine learning (Vélo Star)</span>
+<br> Tools/Outils: Colab, Python, Plotly, HTML
+
+___

@@ -53,3 +53,10 @@ ___
 <br> Tools/Outils: Colab, Python, Plotly, HTML
 
 ___
+
+8. [SignificantEarthquake](https://www.kaggle.com/florentgree/significant-earthquake-analysis-visualisation) (EN)
+<br> (o) <span style="color:darkorange">Analysis and visualisation of significant earthquake</span>
+<br> (+) <span style="color:darkblue">Analyse et visualisation de tremblements de terre importants</span>
+<br> Tools/Outils: Kaggle notebook, Python, Plotly, PCA
+___
+

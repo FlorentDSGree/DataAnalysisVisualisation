@@ -45,7 +45,7 @@ ___
 <br> (o) <span style="color:darkorange">Population in a French department (Ille-et-Vilaine, 35)</span>
 <br> (+) <span style="color:darkblue">Population en Ille-et-Vilaine, 35</span>
 <br> Tools/Outils: Python, Bokeh, MongoDB
-<br> Trials of dynamic visualisation with Blender/ Essai de visualisation avec Blender: [video](https://youtu.be/Kwmon6I_7-M)
+<br> Trials of dynamic visualisation with Blender / Essai de visualisation avec Blender: [video](https://youtu.be/Kwmon6I_7-M)
 ___
 
 2018 August/Août. [BorneDeRechargeVoituresElectriquesRennes](https://florentdsgree.github.io/TableauBorneRechargeRennes/) (FR)

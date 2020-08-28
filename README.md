@@ -48,7 +48,7 @@ ___
 <br> Trials of dynamic visualisation with Blender/ Essai de visualisation avec Blender: [video](https://youtu.be/Kwmon6I_7-M)
 ___
 
-2018 August/Août. BorneDeRechargeVoituresElectriquesRennes](https://florentdsgree.github.io/TableauBorneRechargeRennes/) (FR)
+2018 August/Août. [BorneDeRechargeVoituresElectriquesRennes](https://florentdsgree.github.io/TableauBorneRechargeRennes/) (FR)
 <br> (o) <span style="color:darkorange">Charging stations in Rennes</span>
 <br> (+) <span style="color:darkblue">Borne de recharge pour véhicules électriques à Rennes</span>
 <br> Tools/Outils: Python, Tableau
